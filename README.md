@@ -1,14 +1,31 @@
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Dart; ;" alt="Hey I'm Dart"/></h1>
+</div>
+
+<div align="center">
+    <h2>About Me</h2>
+    <p>I am a hobby game modder currently trying to find a job in software development.</p>
+    <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DartRuffian&theme=github_dark" alt="DartRuffians's GitHub Stats"/>
+    <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DartRuffian&theme=github_dark" alt="DartRuffian's GitHub Stats"/>
+</div>
+
+<!-- <div align="center">
+    <h2 align="center" class="section-heading">Connect</h2>
+    <p></p>
+    <a href="https://github.com/DartRuffian/DartRuffian" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub link"/>
+    </a>
+</div> -->
+<div align="center">
+    <h2>Programming Languages</h2>
+    <p>These are some of the programming languages that I am experienced with.</p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+</div>
+
 <style>
  /* QuickReset */
- *, ::after, ::before {
-    margin: 0;
-    box-sizing:
-    border-box;
-}
-
-* {
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
-}
+ *, ::after, ::before { margin: 0; box-sizing: border-box; }
 
 .projects #container {
   display: grid;
@@ -35,31 +52,6 @@
     filter: brightness(0.6);
 }
 </style>
-
-<div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Dart; ;" alt="Hey I'm Dart"/></h1>
-</div>
-
-<div align="center">
-    <h2>About Me</h2>
-    <p>I am a hobby game modder currently trying to find a job in software development.</p>
-    <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DartRuffian&theme=github_dark" alt="DartRuffians's GitHub Stats"/>
-    <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DartRuffian&theme=github_dark" alt="DartRuffian's GitHub Stats"/>
-</div>
-
-<!-- <div align="center">
-    <h2 align="center" class="section-heading">Connect</h2>
-    <p></p>
-    <a href="https://github.com/DartRuffian/DartRuffian" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub link"/>
-    </a>
-</div> -->
-<div align="center">
-    <h2>Programming Languages</h2>
-    <p>These are some of the programming languages that I am experienced with.</p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</div>
 
 <div class="projects" align="center">
     <h2>Projects</h2>
